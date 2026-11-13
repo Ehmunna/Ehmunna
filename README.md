@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:1F6FEB&height=180&section=header&text=%20EH%20Munna&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:1F6FEB&height=180&section=header&text=Milon%20(EH%20Munna)&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 **Content creator, e-commerce founder, and self-taught developer building web tools, Android apps, and video content from Bangladesh.**
 
@@ -18,17 +18,6 @@
 
 <br/>
 
-## 🧭 About Me
-
-- 🛒 Founder of **EH Brand** — an online retail platform with a custom admin panel and Firebase backend
-- 🎬 Creator at **EH Munna** on YouTube — tech content, tutorials, and short-form video
-- 💻 Build web tools and Android apps as independent side projects
-- 🌱 Currently sharpening skills in full-stack development and app architecture
-- 📍 Based in Rangpur Division, Bangladesh
-- ⚡ Fun fact: I ship fast and learn by building in public
-
-<br/>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -43,8 +32,8 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ehmunna&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ehmunna&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ehmunna&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&cache_seconds=1800" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ehmunna&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&cache_seconds=1800" />
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ehmunna&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF" />
 
@@ -58,7 +47,7 @@
 
 <div align="center">
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ehmunna&repo=EH-Brand&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF" /></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ehmunna&repo=EH-Brand&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&cache_seconds=1800" /></a>
 
 </div>
 
@@ -75,6 +64,17 @@
 <a href="#"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
 </div>
+
+<br/>
+
+## 🧭 About Me
+
+- 🛒 Founder of **EH Brand** — an online retail platform with a custom admin panel and Firebase backend
+- 🎬 Creator at **EH Munna** on YouTube — tech content, tutorials, and short-form video
+- 💻 Build web tools and Android apps as independent side projects
+- 🌱 Currently sharpening skills in full-stack development and app architecture
+- 📍 Based in Rangpur Division, Bangladesh
+- ⚡ Fun fact: I ship fast and learn by building in public
 
 <br/>
 
