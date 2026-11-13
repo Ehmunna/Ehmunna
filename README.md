@@ -1,63 +1,81 @@
-<h1 align="center">Hi👋I'm EH Munna</h1>
-<h3 align="center">Content Creator | Web & Android Developer | Founder of EH Brand</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+web+tools+%26+Android+apps;Running+EH+Brand+e-commerce;Creating+content+for+EH+Munna+%40+YouTube;Always+learning%2C+always+building" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:1F6FEB&height=180&section=header&text=Milon%20(EH%20Munna)&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
----
+**Content creator, e-commerce founder, and self-taught developer building web tools, Android apps, and video content from Bangladesh.**
 
-### 🚀 About Me
-- 🛒 I run **EH Brand** — an online retail / e-commerce platform
-- 🎥 I create content for my YouTube channel **EH Munna**
-- 💻 I build web tools and Android apps as side projects
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Founder+%40+EH+Brand;Creator+%40+EH+Munna+on+YouTube;Building+Web+%26+Android+Apps;Always+Shipping+Something+New" alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://www.youtube.com/@EHMunna-1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/EH%20Brand-000000?style=for-the-badge&logo=shopify&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=todoist&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+## 🧭 About Me
+
+- 🛒 Founder of **EH Brand** — an online retail platform with a custom admin panel and Firebase backend
+- 🎬 Creator at **EH Munna** on YouTube — tech content, tutorials, and short-form video
+- 💻 Build web tools and Android apps as independent side projects
+- 🌱 Currently sharpening skills in full-stack development and app architecture
 - 📍 Based in Rangpur Division, Bangladesh
-- 📫 Reach me through my YouTube channel or GitHub
+- ⚡ Fun fact: I ship fast and learn by building in public
 
----
+<br/>
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,firebase,python,androidstudio,kotlin,git,github,vscode,figma&theme=dark" />
 
-### 📊 GitHub Stats
+</div>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ehmunna&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ehmunna&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ehmunna&theme=tokyonight&hide_border=true" />
-</p>
+## 📊 GitHub Analytics
 
----
+<div align="center">
 
-### 📌 Featured Projects
-- **EH Brand** — E-commerce platform with admin panel & Firebase backend
-- **Web Tools** — Various utilities built for personal and client use
-- **Android Apps** — Side-project apps built and published independently
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ehmunna&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ehmunna&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
 
----
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ehmunna&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF" />
 
-### 🌐 Connect With Me
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ehmunna&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" />
 
-<p align="center">
-  <a href="https://www.youtube.com/@EHMunna-1" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-</p>
+</div>
 
----
+<br/>
 
-<p align="center"><i>⭐️ From Milon — building things one commit at a time.</i></p>
+## 📌 Featured Projects
+
+<div align="center">
+
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ehmunna&repo=EH-Brand&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF" /></a>
+
+</div>
+
+> Replace the repo name above with your actual EH Brand / web-tools repositories once pinned.
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.youtube.com/@EHMunna-1"><img src="https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:2F81F7&height=100&section=footer" width="100%"/>
