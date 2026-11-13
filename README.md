@@ -42,7 +42,7 @@
 
 <br/><br/>
 
-<img src="https://profile-counter.glitch.me/Ehmunna/count.svg" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Ehmunna&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
