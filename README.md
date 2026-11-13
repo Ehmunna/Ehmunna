@@ -32,12 +32,17 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ehmunna&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&cache_seconds=1800" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ehmunna&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&cache_seconds=1800" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ehmunna&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF" width="100%" />
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ehmunna&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF" />
+<br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ehmunna&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" />
+<img src="https://img.shields.io/github/followers/Ehmunna?label=Followers&style=for-the-badge&color=58A6FF&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Ehmunna&label=Public%20Repos&query=public_repos&style=for-the-badge&color=58A6FF&labelColor=0D1117"/>
+<img src="https://img.shields.io/github/stars/Ehmunna?affiliations=OWNER&style=for-the-badge&color=58A6FF&labelColor=0D1117&label=Total%20Stars"/>
+
+<br/><br/>
+
+<img src="https://profile-counter.glitch.me/Ehmunna/count.svg" alt="Profile Views" />
 
 </div>
 
@@ -45,13 +50,11 @@
 
 ## 📌 Featured Projects
 
-<div align="center">
+- 🛒 **EH Brand** — E-commerce platform with custom admin panel & Firebase backend
+- 💻 **Web Tools** — Independent utilities and mini web apps
+- 📱 **Android Apps** — Side-project apps built end to end
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ehmunna&repo=EH-Brand&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&cache_seconds=1800" /></a>
-
-</div>
-
-> Replace the repo name above with your actual EH Brand / web-tools repositories once pinned.
+> *Pin your top repositories directly on your GitHub profile (Customize your pins) so visitors see them right under your bio too.*
 
 <br/>
 
