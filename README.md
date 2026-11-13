@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:1F6FEB&height=180&section=header&text=Milon%20(EH%20Munna)&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:1F6FEB&height=180&section=header&text=%20EH%20Munna&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 **Content creator, e-commerce founder, and self-taught developer building web tools, Android apps, and video content from Bangladesh.**
 
